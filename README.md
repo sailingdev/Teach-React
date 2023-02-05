@@ -22,7 +22,7 @@ git push -uf origin main
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/dsaldeno/teache-admin-panel/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/sailing-dev/teach-React/-/settings/integrations)
 
 ## Collaborate with your team
 
